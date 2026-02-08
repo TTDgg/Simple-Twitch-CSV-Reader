@@ -23,7 +23,7 @@ This Python script analyzes the Twitch subscriber list CSV file and generates a 
 4. **Run Script**:
    Open the terminal in the folder and run:
    ```bash
-   python SubsCalculator.py
+   python SubsCalculator-EN.py
    ```
 
 ### Output
